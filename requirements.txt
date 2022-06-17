@@ -18,7 +18,7 @@ Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.0.2
 mock==2.0.0
-numpy==1.13.1
+numpy==1.21.0
 olefile==0.44
 pathlib==1.0.1
 pbr==3.1.1
