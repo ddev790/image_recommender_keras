@@ -22,7 +22,7 @@ numpy==1.13.1
 olefile==0.44
 pathlib==1.0.1
 pbr==3.1.1
-Pillow==4.2.1
+Pillow==9.3.0
 protobuf==3.4.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
